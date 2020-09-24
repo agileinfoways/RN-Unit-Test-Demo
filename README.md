@@ -2,7 +2,7 @@
 $ npm install
 
 All jest tests:
-$ npm run jest
+$ npm run test
 
 Jest watch mode:
 $ npm run jest -- --watch
