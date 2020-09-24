@@ -5,7 +5,7 @@ All jest tests:
 $ npm run test
 
 Jest watch mode:
-$ npm run jest -- --watch
+$ npm run test -- --watch
 
 ## Reference:
 - https://jestjs.io/docs/en/tutorial-react
